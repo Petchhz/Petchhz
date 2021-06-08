@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Nattapong Laohawanich
+- 👀 I’m interested in Artificial Intelligence, Data Science, DevOps, Internet of Things and more.
+- 🌱 I’m currently learning Natural Language Processing (NLP)
